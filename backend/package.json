@@ -1,0 +1,9 @@
+{
+  "name": "topic-to-podcast-mvp",
+  "version": "0.1.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": { "dev": "nodemon backend/index.js" },
+  "dependencies": { "express": "^4.19.0", "dotenv": "^16.4.5", "openai": "^4.0.0", "@google-cloud/text-to-speech": "^5.4.0" },
+  "devDependencies": { "nodemon": "^3.0.2" }
+}

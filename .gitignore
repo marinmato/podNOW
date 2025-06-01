@@ -1,0 +1,6 @@
+node_modules/
+tmp/
+.env
+podnow-94a80f0b653d.json
+.claude
+npm-debug.log*
